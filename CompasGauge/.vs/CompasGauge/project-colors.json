@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb0e3e01-a873-4f06-8443-aa89e9433d9d": {
+      "ProjectGuid": "fb0e3e01-a873-4f06-8443-aa89e9433d9d",
+      "DisplayName": "CompasGauge",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
